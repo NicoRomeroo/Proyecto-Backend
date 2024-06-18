@@ -1,0 +1,14 @@
+{
+    "name": "ejemplo1",
+    "version": "1.0.0",
+    "description": "Mi primer proyecto",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Nicolas Romero",
+    "license": "MIT",
+    "dependencies": {
+        "moment": "^2.30.1"
+    }
+}
